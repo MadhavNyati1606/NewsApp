@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "RJ Young",
+            "title": "College football rankings: Big Ten stays the course, Pac-12 hit with turmoil",
+            "description": "Oregon and UCLA take a tumble in RJ Young's college football rankings. Check out how the rest of the Top 25 shake out.",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-rankings-big-ten-stays-course-pac-12-hit-with-turmoil",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/11.13.22_RJ-Youngs-Top-25-Week-11_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-11-13T07:34:18Z",
+            "content": "Ohio State took apart Indiana without two of its best players on the field in running back TreVeyon Henderson and wideout Jaxon Smith-Njigba. \r\nThe Buckeyes played a little more than an entire half o… [+8914 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (13 novembre 2022) ?",
+            "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour diffusés sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en s…",
+            "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-13-novembre-2022/1364629",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560313/4:0,2500:1664-640-427-75/3ed0a.jpg",
+            "publishedAt": "2022-11-13T06:01:40+00:00",
+            "content": "Ligue 1 : 15e journée \r\n- Paris-SG - Auxerre : à 13 heures en direct sur Canal + Foot et Prime Vidéo - Multiplex : à 15 heures en direct sur Prime Vidéo\r\n- Nantes - AC Ajaccio : à 15 heures en direct… [+308 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Washington rallies late, upends No. 6 Oregon's CFP hopes",
+            "description": "Washington rallied in the fourth quarter to snap No. 6 Oregon's eight-game winning streak, dealing a massive blow to the Ducks' College Football Playoff hopes.",
+            "url": "http://espn.go.com/college-football/story/_/id/35014743/washington-rallies-late-upends-no-6-oregon-cfp-hopes",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1113%2Fr1090384_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-11-13T04:32:00Z",
+            "content": "EUGENE, Ore. -- Peyton Henry kicked a 43-yard field goal with 51 seconds left and No. 24 Washington snapped No. 6 Oregon's eight-game winning streak with a 37-34 victory Saturday, dealing a blow to t… [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Week 11 college football winners and losers: Alabama quiets doubters, while Oklahoma sinks deeper",
+            "description": "Alabama and Clemson rebounded with wins, while Oklahoma and Kentucky sunk deeper to lead the college football winners and losers from Week 11.",
+            "url": "https://www.usatoday.com/story/sports/ncaaf/2022/11/12/alabama-oklahoma-lead-college-footballs-week-11-winners-and-losers/10681951002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/13/USAT/0f2363ac-ed66-4c36-9529-c2a1ce145741-USATSI_19418926.jpg?auto=webp&crop=3234,1819,x1,y127&format=pjpg&width=1200",
+            "publishedAt": "2022-11-13T02:11:25+00:00",
+            "content": "There's good news and there's bad news for No. 11 Alabama.\r\nAfter last week's loss to No. 8 LSU put a crippling dent in any chance of returning to the College Football Playoff, No. 11 Alabama bounced… [+6650 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Morgan Moriarty",
+            "title": "College Football: Winners and Losers from Week 11",
+            "description": "Week 11 in college football kicked off this weekend, and there were plenty of exciting moments and plays. In the early slate of games on Saturday, UConn became...",
+            "url": "https://bleacherreport.com/articles/10055510-college-football-winners-and-losers-from-week-11",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1668297312/vwbc3lpweea4abdun4ke.jpg",
+            "publishedAt": "2022-11-13T01:43:39Z",
+            "content": "AP Photo/Michael Clubb\r\nHow about Vanderbilt?! The Commodores snapped a five-game losing streak on Saturday with an upset win over No. 24 Kentucky. It also snapped a 26-game losing streak that Vandy … [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Field YatesESPN Insider ",
+            "title": "Fantasy football Week 10 tips: Josh Allen, JuJu",
+            "description": "Field Yates discusses what to expect from the Bills' offense if Josh Allen misses time, what to make of the Chiefs' top wideout, and assesses some of the murkiest backfield situations.",
+            "url": "http://espn.go.com/fantasy/football/insider/story/_/id/34986098/josh-allen-tyreek-hill-jaylen-waddle-juju-smith-schuster",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1109%2Fr1088428_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-11-10T12:00:00Z",
+            "content": "Each week during the 2022 NFL season, Field Yates will help fantasy football managers by providing the precise intel needed on the most important, fantasy-relevant storylines. Field's Rolodex is vast… [+11974 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
